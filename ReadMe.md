@@ -8,7 +8,7 @@ Each of them is a different container of the same application
 
 
 
-The class SHA1.java repeats the algorithm SHA-1. Function getHash accepts string and returns hash of this string strictly 160 bits long
+The class SHA1.java repeats the algorithm SHA-1. Function getHash accepts string and returns hash of this string strictly 160 bits long.
 
 Every step is described in code-comments (//)
 
