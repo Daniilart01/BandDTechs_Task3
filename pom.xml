@@ -4,10 +4,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.distributedLabAcademy.SHA-1</groupId>
-    <artifactId>BandDTechs_Task3</artifactId>
+    <groupId>com.home.SHA-1</groupId>
+    <artifactId>SHA1</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>BandDTechs_Task3</name>
+    <name>SHA1</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -61,7 +61,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                com.distributedlabacademy.sha1.banddtechs_task3/com.distributedlabacademy.sha1.banddtechs_task3.Launcher
+                                com.distributedlabacademy.sha1.banddtechs_task3/com.home.sha1.Launcher
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>

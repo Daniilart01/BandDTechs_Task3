@@ -3,6 +3,6 @@ module com.distributedlabacademy.sha1.banddtechs_task3 {
     requires javafx.fxml;
 
 
-    opens com.distributedlabacademy.sha1.banddtechs_task3 to javafx.fxml;
-    exports com.distributedlabacademy.sha1.banddtechs_task3;
+    opens com.home.sha1 to javafx.fxml;
+    exports com.home.sha1;
 }
